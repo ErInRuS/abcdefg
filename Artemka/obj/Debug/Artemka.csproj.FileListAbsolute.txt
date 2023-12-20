@@ -1,0 +1,7 @@
+C:\Users\Doshi\source\repos\Artemka\Artemka\bin\Debug\Artemka.exe.config
+C:\Users\Doshi\source\repos\Artemka\Artemka\bin\Debug\Artemka.exe
+C:\Users\Doshi\source\repos\Artemka\Artemka\bin\Debug\Artemka.pdb
+C:\Users\Doshi\source\repos\Artemka\Artemka\obj\Debug\Artemka.csproj.AssemblyReference.cache
+C:\Users\Doshi\source\repos\Artemka\Artemka\obj\Debug\Artemka.csproj.CoreCompileInputs.cache
+C:\Users\Doshi\source\repos\Artemka\Artemka\obj\Debug\Artemka.exe
+C:\Users\Doshi\source\repos\Artemka\Artemka\obj\Debug\Artemka.pdb
